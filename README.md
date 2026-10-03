@@ -1,1 +1,1 @@
-# Fashion ANN Pipeline - hotfix
+# Fashion-MNIST ANN Pipeline
