@@ -1,3 +1,4 @@
+# preprocessing step: normalize and split data
 import numpy as np, os, yaml
 from sklearn.model_selection import train_test_split
 p = yaml.safe_load(open("params.yaml"))["preprocess"]
